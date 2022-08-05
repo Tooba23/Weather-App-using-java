@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_humidity.png.flat",
+        "source": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\src\\main\\res\\drawable\\humidity.png"
+    },
+    {
+        "merged": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_morning_gradient.xml.flat",
+        "source": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\src\\main\\res\\drawable\\morning_gradient.xml"
+    },
+    {
+        "merged": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_info.png.flat",
+        "source": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\src\\main\\res\\drawable\\info.png"
+    },
+    {
+        "merged": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_search_24.xml.flat",
+        "source": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\src\\main\\res\\drawable\\ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_visibilty.png.flat",
+        "source": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\src\\main\\res\\drawable\\visibilty.png"
+    },
+    {
+        "merged": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sunrise.png.flat",
+        "source": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\src\\main\\res\\drawable\\sunrise.png"
+    },
+    {
+        "merged": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_gradient.xml.flat",
+        "source": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\src\\main\\res\\drawable\\bg_gradient.xml"
+    },
+    {
+        "merged": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_night.jpg.flat",
+        "source": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\src\\main\\res\\drawable-xxhdpi\\night.jpg"
+    },
+    {
+        "merged": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sunset.png.flat",
+        "source": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\src\\main\\res\\drawable\\sunset.png"
+    },
+    {
+        "merged": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_morning.jpg.flat",
+        "source": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\src\\main\\res\\drawable-xxhdpi\\morning.jpg"
+    },
+    {
+        "merged": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pressure.png.flat",
+        "source": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\src\\main\\res\\drawable\\pressure.png"
+    },
+    {
+        "merged": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wind.png.flat",
+        "source": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\src\\main\\res\\drawable\\wind.png"
+    },
+    {
+        "merged": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_night_gradient.xml.flat",
+        "source": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\src\\main\\res\\drawable\\night_gradient.xml"
+    },
+    {
+        "merged": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edittext.xml.flat",
+        "source": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\src\\main\\res\\drawable\\edittext.xml"
+    },
+    {
+        "merged": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Development\\Weather-App-using-Java-in-Android-master\\Weather-App-using-Java-in-Android-master\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    }
+]
